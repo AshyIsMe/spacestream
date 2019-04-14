@@ -23,8 +23,8 @@ spacestreams = [
         # The other one is the crappy "Space & Universe (Official)" channel that just
         # rebroadcasts old launches "LIVE" 24/7. Good for testing I guess.
 
-        "https://www.youtube.com/user/NASAtelevision",
-        "https://www.youtube.com/user/NewerDocumentaries",
+        #"https://www.youtube.com/user/NASAtelevision",
+        #"https://www.youtube.com/user/NewerDocumentaries",
 ]
 
 def livestream_url(stream):
